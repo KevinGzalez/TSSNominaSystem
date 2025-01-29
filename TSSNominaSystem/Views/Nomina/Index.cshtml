@@ -1,0 +1,41 @@
+﻿@model IEnumerable<TSSNominaSystem.Models.Nomina>
+
+@{
+    ViewData["Title"] = "Listado de Nóminas";
+}
+
+<h2>Listado de Nóminas</h2>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Cédula</th>
+            <th>Nombre</th>
+            <th>Sueldo</th>
+            <th>Deducciones</th>
+            <th>Fecha de Pago</th>
+            <th>Acciones</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.Empleado?.Cedula</td>
+                <td>@item.Empleado?.Nombre</td>
+                <td>@item.Sueldo</td>
+                <td>@item.Deducciones</td>
+                <td>@item.FechaPago.ToShortDateString()</td>
+                <td>
+                    <a asp-action="Edit" asp-route-id="@item.Id" class="btn btn-warning">Editar</a>
+                    <a asp-action="Delete" asp-route-id="@item.Id" class="btn btn-danger">Eliminar</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<a asp-action="Create" class="btn btn-primary">Crear Nómina</a>
+<a asp-controller="Nomina" asp-action="ExportarTSS" class="btn btn-success">
+    Exportar a TSS
+</a>

@@ -1,0 +1,60 @@
+﻿@model TSSNominaSystem.Models.Nomina
+
+@{
+    ViewData["Title"] = "Crear Nómina";
+}
+
+<h1>Crear Nómina</h1>
+
+@if (!ViewData.ModelState.IsValid)
+{
+    <div class="alert alert-danger">
+        <ul>
+            @foreach (var error in ViewData.ModelState.Values.SelectMany(v => v.Errors))
+            {
+                <li>@error.ErrorMessage</li>
+            }
+        </ul>
+    </div>
+}
+
+<form asp-action="Create" method="post">
+    <div class="form-group">
+        <label for="EmpleadoId">Empleado</label>
+        <select asp-for="EmpleadoId" asp-items="ViewBag.Empleados" class="form-control" name="EmpleadoId">
+            <option value="0">Seleccione un empleado</option>
+        </select>
+        <span asp-validation-for="EmpleadoId" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label for="Sueldo">Sueldo</label>
+        <input asp-for="Sueldo" class="form-control" />
+        <span asp-validation-for="Sueldo" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label for="Deducciones">Deducciones</label>
+        <input asp-for="Deducciones" class="form-control" />
+        <span asp-validation-for="Deducciones" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label for="FechaPago">Fecha de Pago</label>
+        <input asp-for="FechaPago" type="date" class="form-control" />
+        <span asp-validation-for="FechaPago" class="text-danger"></span>
+    </div>
+
+    <button type="submit" class="btn btn-primary">Guardar</button>
+    <a asp-action="Index" class="btn btn-secondary">Volver</a>
+</form>
+
+<script>
+    document.querySelector("form").addEventListener("submit", function (event) {
+        var empleadoSelect = document.querySelector("#EmpleadoId");
+        if (empleadoSelect.value === "0") {
+            alert("Debe seleccionar un empleado antes de guardar.");
+            event.preventDefault();
+        }
+    });
+</script>

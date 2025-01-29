@@ -1,0 +1,340 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Familia_Nova\\source\\repos\\TSSNominaSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6ABD5A14-FC60-496C-91D6-F5D5B77445CB}|TSSNominaSystem\\TSSNominaSystem.csproj|c:\\users\\familia_nova\\source\\repos\\tssnominasystem\\tssnominasystem\\controllers\\nominacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6ABD5A14-FC60-496C-91D6-F5D5B77445CB}|TSSNominaSystem\\TSSNominaSystem.csproj|solutionrelative:tssnominasystem\\controllers\\nominacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6ABD5A14-FC60-496C-91D6-F5D5B77445CB}|TSSNominaSystem\\TSSNominaSystem.csproj|c:\\users\\familia_nova\\source\\repos\\tssnominasystem\\tssnominasystem\\views\\nomina\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6ABD5A14-FC60-496C-91D6-F5D5B77445CB}|TSSNominaSystem\\TSSNominaSystem.csproj|solutionrelative:tssnominasystem\\views\\nomina\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6ABD5A14-FC60-496C-91D6-F5D5B77445CB}|TSSNominaSystem\\TSSNominaSystem.csproj|c:\\users\\familia_nova\\source\\repos\\tssnominasystem\\tssnominasystem\\views\\nomina\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6ABD5A14-FC60-496C-91D6-F5D5B77445CB}|TSSNominaSystem\\TSSNominaSystem.csproj|solutionrelative:tssnominasystem\\views\\nomina\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6ABD5A14-FC60-496C-91D6-F5D5B77445CB}|TSSNominaSystem\\TSSNominaSystem.csproj|c:\\users\\familia_nova\\source\\repos\\tssnominasystem\\tssnominasystem\\views\\nomina\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6ABD5A14-FC60-496C-91D6-F5D5B77445CB}|TSSNominaSystem\\TSSNominaSystem.csproj|solutionrelative:tssnominasystem\\views\\nomina\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6ABD5A14-FC60-496C-91D6-F5D5B77445CB}|TSSNominaSystem\\TSSNominaSystem.csproj|c:\\users\\familia_nova\\source\\repos\\tssnominasystem\\tssnominasystem\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6ABD5A14-FC60-496C-91D6-F5D5B77445CB}|TSSNominaSystem\\TSSNominaSystem.csproj|solutionrelative:tssnominasystem\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6ABD5A14-FC60-496C-91D6-F5D5B77445CB}|TSSNominaSystem\\TSSNominaSystem.csproj|c:\\users\\familia_nova\\source\\repos\\tssnominasystem\\tssnominasystem\\models\\nomina.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6ABD5A14-FC60-496C-91D6-F5D5B77445CB}|TSSNominaSystem\\TSSNominaSystem.csproj|solutionrelative:tssnominasystem\\models\\nomina.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6ABD5A14-FC60-496C-91D6-F5D5B77445CB}|TSSNominaSystem\\TSSNominaSystem.csproj|c:\\users\\familia_nova\\source\\repos\\tssnominasystem\\tssnominasystem\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6ABD5A14-FC60-496C-91D6-F5D5B77445CB}|TSSNominaSystem\\TSSNominaSystem.csproj|solutionrelative:tssnominasystem\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6ABD5A14-FC60-496C-91D6-F5D5B77445CB}|TSSNominaSystem\\TSSNominaSystem.csproj|c:\\users\\familia_nova\\source\\repos\\tssnominasystem\\tssnominasystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6ABD5A14-FC60-496C-91D6-F5D5B77445CB}|TSSNominaSystem\\TSSNominaSystem.csproj|solutionrelative:tssnominasystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6ABD5A14-FC60-496C-91D6-F5D5B77445CB}|TSSNominaSystem\\TSSNominaSystem.csproj|c:\\users\\familia_nova\\source\\repos\\tssnominasystem\\tssnominasystem\\views\\nomina\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6ABD5A14-FC60-496C-91D6-F5D5B77445CB}|TSSNominaSystem\\TSSNominaSystem.csproj|solutionrelative:tssnominasystem\\views\\nomina\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6ABD5A14-FC60-496C-91D6-F5D5B77445CB}|TSSNominaSystem\\TSSNominaSystem.csproj|c:\\users\\familia_nova\\source\\repos\\tssnominasystem\\tssnominasystem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6ABD5A14-FC60-496C-91D6-F5D5B77445CB}|TSSNominaSystem\\TSSNominaSystem.csproj|solutionrelative:tssnominasystem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6ABD5A14-FC60-496C-91D6-F5D5B77445CB}|TSSNominaSystem\\TSSNominaSystem.csproj|c:\\users\\familia_nova\\source\\repos\\tssnominasystem\\tssnominasystem\\models\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6ABD5A14-FC60-496C-91D6-F5D5B77445CB}|TSSNominaSystem\\TSSNominaSystem.csproj|solutionrelative:tssnominasystem\\models\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6ABD5A14-FC60-496C-91D6-F5D5B77445CB}|TSSNominaSystem\\TSSNominaSystem.csproj|c:\\users\\familia_nova\\source\\repos\\tssnominasystem\\tssnominasystem\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6ABD5A14-FC60-496C-91D6-F5D5B77445CB}|TSSNominaSystem\\TSSNominaSystem.csproj|solutionrelative:tssnominasystem\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6ABD5A14-FC60-496C-91D6-F5D5B77445CB}|TSSNominaSystem\\TSSNominaSystem.csproj|c:\\users\\familia_nova\\source\\repos\\tssnominasystem\\tssnominasystem\\models\\novedad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6ABD5A14-FC60-496C-91D6-F5D5B77445CB}|TSSNominaSystem\\TSSNominaSystem.csproj|solutionrelative:tssnominasystem\\models\\novedad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6ABD5A14-FC60-496C-91D6-F5D5B77445CB}|TSSNominaSystem\\TSSNominaSystem.csproj|c:\\users\\familia_nova\\source\\repos\\tssnominasystem\\tssnominasystem\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6ABD5A14-FC60-496C-91D6-F5D5B77445CB}|TSSNominaSystem\\TSSNominaSystem.csproj|solutionrelative:tssnominasystem\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6ABD5A14-FC60-496C-91D6-F5D5B77445CB}|TSSNominaSystem\\TSSNominaSystem.csproj|c:\\users\\familia_nova\\source\\repos\\tssnominasystem\\tssnominasystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6ABD5A14-FC60-496C-91D6-F5D5B77445CB}|TSSNominaSystem\\TSSNominaSystem.csproj|solutionrelative:tssnominasystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6ABD5A14-FC60-496C-91D6-F5D5B77445CB}|TSSNominaSystem\\TSSNominaSystem.csproj|c:\\users\\familia_nova\\source\\repos\\tssnominasystem\\tssnominasystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6ABD5A14-FC60-496C-91D6-F5D5B77445CB}|TSSNominaSystem\\TSSNominaSystem.csproj|solutionrelative:tssnominasystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6ABD5A14-FC60-496C-91D6-F5D5B77445CB}|TSSNominaSystem\\TSSNominaSystem.csproj|c:\\users\\familia_nova\\source\\repos\\tssnominasystem\\tssnominasystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6ABD5A14-FC60-496C-91D6-F5D5B77445CB}|TSSNominaSystem\\TSSNominaSystem.csproj|solutionrelative:tssnominasystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6ABD5A14-FC60-496C-91D6-F5D5B77445CB}|TSSNominaSystem\\TSSNominaSystem.csproj|c:\\users\\familia_nova\\source\\repos\\tssnominasystem\\tssnominasystem\\utils\\validaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6ABD5A14-FC60-496C-91D6-F5D5B77445CB}|TSSNominaSystem\\TSSNominaSystem.csproj|solutionrelative:tssnominasystem\\utils\\validaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6ABD5A14-FC60-496C-91D6-F5D5B77445CB}|TSSNominaSystem\\TSSNominaSystem.csproj|c:\\users\\familia_nova\\source\\repos\\tssnominasystem\\tssnominasystem\\tssnominasystem.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6ABD5A14-FC60-496C-91D6-F5D5B77445CB}|TSSNominaSystem\\TSSNominaSystem.csproj|solutionrelative:tssnominasystem\\tssnominasystem.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NominaController.cs",
+              "DocumentMoniker": "C:\\Users\\Familia_Nova\\source\\repos\\TSSNominaSystem\\TSSNominaSystem\\Controllers\\NominaController.cs",
+              "RelativeDocumentMoniker": "TSSNominaSystem\\Controllers\\NominaController.cs",
+              "ToolTip": "C:\\Users\\Familia_Nova\\source\\repos\\TSSNominaSystem\\TSSNominaSystem\\Controllers\\NominaController.cs",
+              "RelativeToolTip": "TSSNominaSystem\\Controllers\\NominaController.cs",
+              "ViewState": "AQIAAMkAAAAAAAAAAAAmwNIAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T22:54:33.018Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Nomina.cs",
+              "DocumentMoniker": "C:\\Users\\Familia_Nova\\source\\repos\\TSSNominaSystem\\TSSNominaSystem\\Models\\Nomina.cs",
+              "RelativeDocumentMoniker": "TSSNominaSystem\\Models\\Nomina.cs",
+              "ToolTip": "C:\\Users\\Familia_Nova\\source\\repos\\TSSNominaSystem\\TSSNominaSystem\\Models\\Nomina.cs",
+              "RelativeToolTip": "TSSNominaSystem\\Models\\Nomina.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T22:32:36.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Familia_Nova\\source\\repos\\TSSNominaSystem\\TSSNominaSystem\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "TSSNominaSystem\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Familia_Nova\\source\\repos\\TSSNominaSystem\\TSSNominaSystem\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "TSSNominaSystem\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAACoAAAAAAAAAAAAmwDMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-28T23:04:29.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Familia_Nova\\source\\repos\\TSSNominaSystem\\TSSNominaSystem\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "TSSNominaSystem\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Familia_Nova\\source\\repos\\TSSNominaSystem\\TSSNominaSystem\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "TSSNominaSystem\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAACsAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-28T23:10:25.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Familia_Nova\\source\\repos\\TSSNominaSystem\\TSSNominaSystem\\Views\\Nomina\\Delete.cshtml",
+              "RelativeDocumentMoniker": "TSSNominaSystem\\Views\\Nomina\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Familia_Nova\\source\\repos\\TSSNominaSystem\\TSSNominaSystem\\Views\\Nomina\\Delete.cshtml",
+              "RelativeToolTip": "TSSNominaSystem\\Views\\Nomina\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-28T23:48:57.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Familia_Nova\\source\\repos\\TSSNominaSystem\\TSSNominaSystem\\Views\\Nomina\\Edit.cshtml",
+              "RelativeDocumentMoniker": "TSSNominaSystem\\Views\\Nomina\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Familia_Nova\\source\\repos\\TSSNominaSystem\\TSSNominaSystem\\Views\\Nomina\\Edit.cshtml",
+              "RelativeToolTip": "TSSNominaSystem\\Views\\Nomina\\Edit.cshtml",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAswCAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-28T23:47:49.35Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Familia_Nova\\source\\repos\\TSSNominaSystem\\TSSNominaSystem\\Views\\Nomina\\Index.cshtml",
+              "RelativeDocumentMoniker": "TSSNominaSystem\\Views\\Nomina\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Familia_Nova\\source\\repos\\TSSNominaSystem\\TSSNominaSystem\\Views\\Nomina\\Index.cshtml",
+              "RelativeToolTip": "TSSNominaSystem\\Views\\Nomina\\Index.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAACgAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-29T03:32:19.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Familia_Nova\\source\\repos\\TSSNominaSystem\\TSSNominaSystem\\Program.cs",
+              "RelativeDocumentMoniker": "TSSNominaSystem\\Program.cs",
+              "ToolTip": "C:\\Users\\Familia_Nova\\source\\repos\\TSSNominaSystem\\TSSNominaSystem\\Program.cs",
+              "RelativeToolTip": "TSSNominaSystem\\Program.cs",
+              "ViewState": "AQIAAAkAAACAZmZmZmYkwBwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T22:42:19.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Familia_Nova\\source\\repos\\TSSNominaSystem\\TSSNominaSystem\\appsettings.json",
+              "RelativeDocumentMoniker": "TSSNominaSystem\\appsettings.json",
+              "ToolTip": "C:\\Users\\Familia_Nova\\source\\repos\\TSSNominaSystem\\TSSNominaSystem\\appsettings.json",
+              "RelativeToolTip": "TSSNominaSystem\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-28T22:41:50.389Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Familia_Nova\\source\\repos\\TSSNominaSystem\\TSSNominaSystem\\Views\\Nomina\\Create.cshtml",
+              "RelativeDocumentMoniker": "TSSNominaSystem\\Views\\Nomina\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Familia_Nova\\source\\repos\\TSSNominaSystem\\TSSNominaSystem\\Views\\Nomina\\Create.cshtml",
+              "RelativeToolTip": "TSSNominaSystem\\Views\\Nomina\\Create.cshtml",
+              "ViewState": "AQIAADMAAAAAAAAAAAAmwDwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-28T23:46:21.191Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Empleado.cs",
+              "DocumentMoniker": "C:\\Users\\Familia_Nova\\source\\repos\\TSSNominaSystem\\TSSNominaSystem\\Models\\Empleado.cs",
+              "RelativeDocumentMoniker": "TSSNominaSystem\\Models\\Empleado.cs",
+              "ToolTip": "C:\\Users\\Familia_Nova\\source\\repos\\TSSNominaSystem\\TSSNominaSystem\\Models\\Empleado.cs",
+              "RelativeToolTip": "TSSNominaSystem\\Models\\Empleado.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T22:30:42.535Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\Familia_Nova\\source\\repos\\TSSNominaSystem\\TSSNominaSystem\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "TSSNominaSystem\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\Familia_Nova\\source\\repos\\TSSNominaSystem\\TSSNominaSystem\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "TSSNominaSystem\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-28T23:04:36.044Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Familia_Nova\\source\\repos\\TSSNominaSystem\\TSSNominaSystem\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "TSSNominaSystem\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Familia_Nova\\source\\repos\\TSSNominaSystem\\TSSNominaSystem\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "TSSNominaSystem\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T22:35:48.033Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Novedad.cs",
+              "DocumentMoniker": "C:\\Users\\Familia_Nova\\source\\repos\\TSSNominaSystem\\TSSNominaSystem\\Models\\Novedad.cs",
+              "RelativeDocumentMoniker": "TSSNominaSystem\\Models\\Novedad.cs",
+              "ToolTip": "C:\\Users\\Familia_Nova\\source\\repos\\TSSNominaSystem\\TSSNominaSystem\\Models\\Novedad.cs",
+              "RelativeToolTip": "TSSNominaSystem\\Models\\Novedad.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T23:27:54.297Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "bootstrap-grid.css.map",
+              "DocumentMoniker": "C:\\Users\\Familia_Nova\\source\\repos\\TSSNominaSystem\\TSSNominaSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+              "RelativeDocumentMoniker": "TSSNominaSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+              "ToolTip": "C:\\Users\\Familia_Nova\\source\\repos\\TSSNominaSystem\\TSSNominaSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+              "RelativeToolTip": "TSSNominaSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAADrggAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-01-28T23:09:11.687Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "bootstrap-grid.rtl.css.map",
+              "DocumentMoniker": "C:\\Users\\Familia_Nova\\source\\repos\\TSSNominaSystem\\TSSNominaSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+              "RelativeDocumentMoniker": "TSSNominaSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+              "ToolTip": "C:\\Users\\Familia_Nova\\source\\repos\\TSSNominaSystem\\TSSNominaSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+              "RelativeToolTip": "TSSNominaSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAC9/QEA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-01-28T23:09:24.61Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "bootstrap-reboot.min.css.map",
+              "DocumentMoniker": "C:\\Users\\Familia_Nova\\source\\repos\\TSSNominaSystem\\TSSNominaSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+              "RelativeDocumentMoniker": "TSSNominaSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+              "ToolTip": "C:\\Users\\Familia_Nova\\source\\repos\\TSSNominaSystem\\TSSNominaSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+              "RelativeToolTip": "TSSNominaSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAQNQAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-01-28T23:09:49.624Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Validaciones.cs",
+              "DocumentMoniker": "C:\\Users\\Familia_Nova\\source\\repos\\TSSNominaSystem\\TSSNominaSystem\\Utils\\Validaciones.cs",
+              "RelativeDocumentMoniker": "TSSNominaSystem\\Utils\\Validaciones.cs",
+              "ToolTip": "C:\\Users\\Familia_Nova\\source\\repos\\TSSNominaSystem\\TSSNominaSystem\\Utils\\Validaciones.cs",
+              "RelativeToolTip": "TSSNominaSystem\\Utils\\Validaciones.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T23:01:41.343Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "TSSNominaSystem.csproj",
+              "DocumentMoniker": "C:\\Users\\Familia_Nova\\source\\repos\\TSSNominaSystem\\TSSNominaSystem\\TSSNominaSystem.csproj",
+              "RelativeDocumentMoniker": "TSSNominaSystem\\TSSNominaSystem.csproj",
+              "ToolTip": "C:\\Users\\Familia_Nova\\source\\repos\\TSSNominaSystem\\TSSNominaSystem\\TSSNominaSystem.csproj",
+              "RelativeToolTip": "TSSNominaSystem\\TSSNominaSystem.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-28T23:01:18.54Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

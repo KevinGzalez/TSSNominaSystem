@@ -1,0 +1,23 @@
+﻿@model TSSNominaSystem.Models.Nomina
+
+@{
+    ViewData["Title"] = "Eliminar Nómina";
+}
+
+<h1>Eliminar Nómina</h1>
+
+<div>
+    <h4>¿Estás seguro de que deseas eliminar esta nómina?</h4>
+    <div>
+        <h5>Empleado: @Model.Empleado.Nombre</h5>
+        <p>Sueldo: @Model.Sueldo.ToString("C")</p>
+        <p>Deducciones: @Model.Deducciones.ToString("C")</p>
+        <p>Fecha de Pago: @Model.FechaPago.ToString("yyyy-MM-dd")</p>
+    </div>
+</div>
+
+<form asp-action="Delete">
+    <input type="hidden" asp-for="Id" />
+    <button type="submit" class="btn btn-danger">Eliminar</button>
+    <a asp-action="Index" class="btn btn-secondary">Cancelar</a>
+</form>

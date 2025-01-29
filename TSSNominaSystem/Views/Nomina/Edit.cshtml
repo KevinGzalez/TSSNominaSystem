@@ -1,0 +1,32 @@
+﻿@model TSSNominaSystem.Models.Nomina
+
+@{
+    ViewData["Title"] = "Editar Nómina";
+}
+
+<h1>Editar Nómina</h1>
+
+<form asp-action="Edit">
+    <input type="hidden" asp-for="Id" />
+    <div class="form-group">
+        <label for="EmpleadoId">Empleado</label>
+        <select asp-for="EmpleadoId" asp-items="ViewBag.Empleados" class="form-control" disabled></select>
+    </div>
+    <div class="form-group">
+        <label for="Sueldo">Sueldo</label>
+        <input asp-for="Sueldo" class="form-control" />
+        <span asp-validation-for="Sueldo" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label for="Deducciones">Deducciones</label>
+        <input asp-for="Deducciones" class="form-control" />
+        <span asp-validation-for="Deducciones" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label for="FechaPago">Fecha de Pago</label>
+        <input asp-for="FechaPago" type="date" class="form-control" />
+        <span asp-validation-for="FechaPago" class="text-danger"></span>
+    </div>
+    <button type="submit" class="btn btn-primary">Actualizar</button>
+    <a asp-action="Index" class="btn btn-secondary">Volver</a>
+</form>

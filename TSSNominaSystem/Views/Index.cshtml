@@ -1,0 +1,51 @@
+﻿@model IEnumerable<TSSNominaSystem.Models.Nomina>
+
+@{
+    ViewData["Title"] = "Listado de Nóminas";
+}
+
+<h1>Listado de Nóminas</h1>
+
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>Cédula</th>
+            <th>Nombre</th>
+            <th>Sueldo</th>
+            <th>Deducciones</th>
+            <th>Fecha de Pago</th>
+            <th>Acciones</th>
+        </tr>
+    </thead>
+    <tbody>
+        @if (Model != null && Model.Any())
+        {
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>@(item.Empleado != null ? item.Empleado.Cedula : "No asignado")</td>
+                    <td>@(item.Empleado != null ? item.Empleado.Nombre : "No asignado")</td>
+                    <td>@item.Sueldo.ToString("C")</td>
+                    <td>@item.Deducciones.ToString("C")</td>
+                    <td>@item.FechaPago.ToString("yyyy-MM-dd")</td>
+                    <td>
+                        <a asp-action="Edit" asp-route-id="@item.Id" class="btn btn-warning btn-sm">Editar</a>
+                        <a asp-action="Delete" asp-route-id="@item.Id" class="btn btn-danger btn-sm">Eliminar</a>
+                    </td>
+                </tr>
+            }
+        }
+        else
+        {
+            <tr>
+                <td colspan="6" class="text-center">No hay nóminas registradas.</td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<a asp-controller="Nomina" asp-action="Create" class="btn btn-primary">Crear Nómina</a>
+
+<a asp-controller="Nomina" asp-action="ExportarTSS" class="btn btn-success">
+    Exportar a TSS
+</a>
